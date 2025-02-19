@@ -4,4 +4,4 @@ fn main() {
     let combinado = [&vetor1[..], &vetor2[..]].concat();
 
     println!("{:?}", combinado); // imprimi juntando os dois vetores [1, 2, 3, 4, 5, 6]
-}
+} 
